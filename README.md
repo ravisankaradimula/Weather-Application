@@ -45,8 +45,6 @@ Contributions are welcome! If you'd like to contribute, please:
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Contact
-
 
 
 Thank you for checking out the Weather Application! 😊
